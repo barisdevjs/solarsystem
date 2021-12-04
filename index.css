@@ -1,0 +1,64 @@
+body {
+    background-image: url("../images/space.jpg");
+    background-size: 200px 200px;
+}
+
+.sun {
+    background-image: url("./images/sun.jpg");
+}
+
+.planet {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-size: 100% 100%;
+  }
+
+.mercury {
+    background-image: url("./images/mercury.jpg");
+    width: 15px;
+    height: 15px;
+  }
+  
+  .venus {
+    background-image: url("./images/venus.png");
+    width: 35px;
+    height: 35px;
+  }
+  
+  .earth {
+    background-image: url("./images/earth.png");
+    width: 45px;
+    height: 45px;
+  }
+  
+  .mars {
+    background-image: url("./images/mars.jpg");
+    width: 20px;
+    height: 20px;
+  }
+  
+  .jupiter {
+    background-image: url("./images/jupiter.png");
+    width: 50px;
+    height: 50px;
+  }
+  
+  .saturn {
+    background-image: url("./images/saturn.png");
+    width: 40px;
+    height: 40px;
+  }
+  
+  .uranus {
+    background-image: url("./images/uranus.png");
+    width: 40px;
+    height: 40px;
+  }
+  
+  .neptune {
+    background-image: url("./images/neptun.png");
+    width: 40px;
+    height: 40px;
+  }
